@@ -1,0 +1,1 @@
+CREATE OR REPLACE view views.v1 as select 1 OPTION $NOFAIL;;
